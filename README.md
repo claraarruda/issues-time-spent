@@ -1,6 +1,6 @@
 # Issues Time Spent
 
-###### Script para acompanhamento de horas trabalhadas de acordo com o time spent de issues
+###### Script para acompanhamento de horas trabalhadas de acordo com o time spent de issues no gitlab.
 
 __Uso__:
 *É necessário definir variáveis de ambiente para o uso correto do script.*
